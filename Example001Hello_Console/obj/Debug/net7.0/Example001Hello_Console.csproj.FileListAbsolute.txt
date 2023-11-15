@@ -1,0 +1,14 @@
+D:\study_IT\start_in programm_diagram\example\Example001Hello_Console\bin\Debug\net7.0\Example001Hello_Console.exe
+D:\study_IT\start_in programm_diagram\example\Example001Hello_Console\bin\Debug\net7.0\Example001Hello_Console.deps.json
+D:\study_IT\start_in programm_diagram\example\Example001Hello_Console\bin\Debug\net7.0\Example001Hello_Console.runtimeconfig.json
+D:\study_IT\start_in programm_diagram\example\Example001Hello_Console\bin\Debug\net7.0\Example001Hello_Console.dll
+D:\study_IT\start_in programm_diagram\example\Example001Hello_Console\bin\Debug\net7.0\Example001Hello_Console.pdb
+D:\study_IT\start_in programm_diagram\example\Example001Hello_Console\obj\Debug\net7.0\Example001Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\study_IT\start_in programm_diagram\example\Example001Hello_Console\obj\Debug\net7.0\Example001Hello_Console.AssemblyInfoInputs.cache
+D:\study_IT\start_in programm_diagram\example\Example001Hello_Console\obj\Debug\net7.0\Example001Hello_Console.AssemblyInfo.cs
+D:\study_IT\start_in programm_diagram\example\Example001Hello_Console\obj\Debug\net7.0\Example001Hello_Console.csproj.CoreCompileInputs.cache
+D:\study_IT\start_in programm_diagram\example\Example001Hello_Console\obj\Debug\net7.0\Example001Hello_Console.dll
+D:\study_IT\start_in programm_diagram\example\Example001Hello_Console\obj\Debug\net7.0\refint\Example001Hello_Console.dll
+D:\study_IT\start_in programm_diagram\example\Example001Hello_Console\obj\Debug\net7.0\Example001Hello_Console.pdb
+D:\study_IT\start_in programm_diagram\example\Example001Hello_Console\obj\Debug\net7.0\Example001Hello_Console.genruntimeconfig.cache
+D:\study_IT\start_in programm_diagram\example\Example001Hello_Console\obj\Debug\net7.0\ref\Example001Hello_Console.dll
